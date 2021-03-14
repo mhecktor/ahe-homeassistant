@@ -1,0 +1,13 @@
+{
+  "domain": "ahe",
+  "name": "ahe waste collection schedule",
+  "documentation": "https://github.com/mhecktor/ahe-homeassistant",
+  "requirements": [],
+  "homeassistant": "0.98.0",
+  "dependencies": [
+  ],
+  "version": "0.0.1",
+  "codeowners": [
+    "@mhecktor"
+  ]
+}
